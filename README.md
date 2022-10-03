@@ -11,3 +11,4 @@
 <h3>特别说明</h3>
 <p>本站由  @RemyYYZ 的 <a href="https://mcappx.remyyyz.com/">Minecraft for Windows 版本库</a> 以及 @Hottampist 的 <a href="https://mcarc.gitee.io/">Minecraft 版本库</a> 授权</p>
 <iframe allowtransparency="true" frameborder="0" width="290" height="96" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=0&v=0&d=2&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=1&c=54511&w=290&h=96&align=center"></iframe>
+<a target="_blank" href="http://www.freecdn.pw/?zzwz" title="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）" alt="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）">本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务</a>
